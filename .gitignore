@@ -25,3 +25,5 @@ __pycache__/
 .Trashes
 .VolumeIcon.icns
 .com.apple.timemachine.donotpresent
+
+.pytest_cache/
